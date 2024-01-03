@@ -6,5 +6,5 @@ router.get('/home',(req,res)=>{
 router.get('/about',(req,res)=>{
     res.send("user about")
 })
-
+//just a change 
 module.exports=router;
